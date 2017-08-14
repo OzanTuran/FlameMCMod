@@ -48,7 +48,7 @@ public class Command_flamemcmod extends FreedomCommand
         msg("Compile date: " + "11/08/2017", ChatColor.GOLD);
         msg("Running on " + ConfigEntry.SERVER_NAME.getString() + ".", ChatColor.GOLD);
         msg("Credits to Raduino", ChatColor.GOLD);
-        msg("Visit " + ChatColor.AQUA + "(forum soon)" + ChatColor.GREEN + " for more information.", ChatColor.GREEN);
+        msg("Visit " + ChatColor.AQUA + "http://flamemcforums.boards.net/" + ChatColor.GREEN + " for more information.", ChatColor.GREEN);
         return true;
     }
 }
