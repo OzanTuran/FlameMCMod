@@ -19,7 +19,7 @@ public class Command_admininfo extends FreedomCommand
         msg(" - Be helpful within the server,", ChatColor.GOLD);
         msg(" - Report those breaking the rules,", ChatColor.DARK_GREEN);
         msg(" - And apply on our forums at this link:", ChatColor.GOLD);
-        msg(" - http://forum.rigelmc.ga", ChatColor.DARK_AQUA);
+        msg(" - http://flamemcforums.boards.net", ChatColor.DARK_AQUA);
         msg(" - Do not apply for admin if you cannot be active!", ChatColor.RED);
         return true;
     }
